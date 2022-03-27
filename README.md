@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivampandey0&label=Profile%20views&color=0e75b6&style=flat" alt="shivampandey" /> </p>
 
-<p><a href="https://twitter.com/shivampandey0" target="blank"><img src="https://img.shields.io/twitter/follow/shivampandey0?logo=twitter&color=0e75b6&style=flat-square&label=Follow" alt="shivampandey0" /></a> </p>
+<p><a href="https://twitter.com/ErShivamPandey" target="blank"><img src="https://img.shields.io/twitter/follow/shivampandey0?logo=twitter&color=0e75b6&style=flat-square&label=Follow" alt="shivampandey0" /></a> </p>
 
 <h3>Here are some facts about me:</h3>
 
