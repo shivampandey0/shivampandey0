@@ -11,11 +11,6 @@
 - 👩‍💻 Web dev enthusiast, Mobile dev for fun
 - 🌱 Learning to build with **React** & **Flutter** 
 
-<h3>Find out about my professional life here:</h3>
-<a href="https://peerlist.io/shivampandey"><img height=44 src="https://github.com/Siddhant-K-code/Siddhant-K-code/blob/master/PL%20Logo%20-%20Primary.svg"/></a>
-<a href="https://play.google.com/store/apps/dev?id=4890058582469040544"><img height=44 src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
-
-
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/ErShivamPandey"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"  align="left"/></a>
 <a href="https://shivampandey.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" align="left" /> </a>
